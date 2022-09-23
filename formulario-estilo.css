@@ -1,7 +1,7 @@
 .caixa_formulario{
     background-color: white;
     width: 400px;
-    height: 300px;
+    height: 400px;
     color: palevioletred;
     display: flex;
     flex-direction: column;
@@ -17,7 +17,7 @@
 .formulario {
     display: flex;
     flex-direction: column;
-    width: 200px;
+    width: 250px;
     
 }
 
